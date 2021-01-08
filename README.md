@@ -1,2 +1,3 @@
 # web-jogo-xadrez
-# web-jogo-xadrez
+
+HTML, CSS ,JS
