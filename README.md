@@ -1,3 +1,3 @@
-# web-jogo-xadrez
+# web-jogo-da-velha
 
 HTML, CSS ,JS
